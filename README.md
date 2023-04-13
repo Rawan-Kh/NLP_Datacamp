@@ -4,7 +4,7 @@ All NLP related courses on DataCamp
 <pre>
 Courses involved:
 
-[1- Introduction to Natural Language Processing in Python](https://app.datacamp.com/learn/courses/introduction-to-natural-language-processing-in-python)
+<a href="https://app.datacamp.com/learn/courses/introduction-to-natural-language-processing-in-python">Introduction to Natural Language Processing in Python</a>
 
 Topics Covered:
 Regular expressions & word tokenization
