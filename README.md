@@ -1,10 +1,6 @@
 # NLP_Datacamp
 All NLP related courses on DataCamp
-<style>
-  a {
-  font-weight: bold;
-  }
-</style>
+
 <pre>
 Courses involved:
 
